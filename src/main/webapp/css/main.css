@@ -1,0 +1,22 @@
+.header {
+    height: 512px;
+    width: 100%;
+    background: #0b2e13;
+}
+
+.header img {
+    height: 512px;
+    width: 100%;
+    object-fit: cover;
+}
+
+main.main-content {
+    min-height: 100vh;
+}
+
+footer.app-footer {
+    background: #323632;
+    color: white;
+    min-height: 512px;
+    width: 100%;
+}
